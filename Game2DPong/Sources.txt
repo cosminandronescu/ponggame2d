@@ -1,0 +1,4 @@
+1. https://docs.oracle.com/javase/tutorial/2d/
+2. https://docs.oracle.com/javase/7/docs/api/java/lang/System.html#nanoTime()%20System.nanoTime()
+3. https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html
+4. CG Moodle Course Examples
