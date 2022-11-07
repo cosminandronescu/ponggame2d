@@ -1,4 +1,4 @@
-# ponggame2d
+# Pong Game 2D
 
 I have made a simple 2D Pong Game using JavaFX.
 The game is a single player game where you can move a paddle left to right using the "a" and "d" keys. 
