@@ -1,0 +1,9 @@
+1. https://docs.oracle.com/javase/tutorial/2d/
+2. https://docs.oracle.com/javase/7/docs/api/java/lang/System.html#nanoTime()%20System.nanoTime()
+3. https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html
+4. https://www.javatpoint.com/javafx-playing-audio
+5. CG Moodle Course Examples
+
+Audio:
+1. Water sci fi bleep, Losing bleeps: (Mixkit Sound Effects Free License) https://mixkit.co/free-sound-effects/bleep/
+2. Rhythm and Booze by Twin Musicom (twinmusicom.org): http://www.twinmusicom.org/song/103/rhythm-and-booze
