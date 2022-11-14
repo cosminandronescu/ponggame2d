@@ -6,6 +6,7 @@ The ball which will start moving in a random direction, will speed up every time
 You can also pause the game with the ESCAPE key.
 
 Newly Added:
-- A Few Comments for blocks of code;
+- A few comments for some parts of the code;
 - Background music and sound effects;
+- Increased window size;
 
