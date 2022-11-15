@@ -1,5 +1,5 @@
 [1] https://docs.oracle.com/javase/tutorial/2d/
-[2] https://docs.oracle.com/javase/7/docs/api/java/lang/System.html#nanoTime()%20System.nanoTime()
+[2] https://youtu.be/oLirZqJFKPE - Structure for the game
 [3] https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html
 [4] https://youtu.be/TErboGLHZGA  - Media Class
 [5] CG Moodle Course Examples
