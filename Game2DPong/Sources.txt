@@ -1,8 +1,14 @@
+Sources:
 [1] https://docs.oracle.com/javase/tutorial/2d/
 [2] https://youtu.be/oLirZqJFKPE - Structure for the game
 [3] https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html
 [4] https://youtu.be/TErboGLHZGA  - Media Class
 [5] CG Moodle Course Examples
+
 Audio:
-[1] Water sci fi bleep, Losing bleeps: (Mixkit Sound Effects Free License) https://mixkit.co/free-sound-effects/bleep/
-[2] Rhythm and Booze by Twin Musicom: (twinmusicom.org) http://www.twinmusicom.org/song/103/rhythm-and-booze
+[6] Water sci fi bleep, Losing bleeps: (Mixkit Sound Effects Free License) https://mixkit.co/free-sound-effects/bleep/
+[7] Rhythm and Booze by Twin Musicom: (twinmusicom.org) http://www.twinmusicom.org/song/103/rhythm-and-booze
+
+My Implementation:
+On the structure from [2], I have made a single player mode of the Pong Game and with additional background music and sound effects.
+The game is vertical, and runs with a timer which resets after some time (the game looks like it freezes for a fraction of a second, but doesn't really affect gameplay. When it comes to the music and sounds, they can be found at [6] and [7], the music being edited to be smaller in size and looped, while the sound effects are used for interaction with the paddle and the score reset.
